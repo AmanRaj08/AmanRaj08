@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmanRaj
 - 🏫I’m currently pursuing Engineering in Computer Science from Nitte Meenakshi Institute Of Technology , Bangalore.
-- 🌱 I’m currently learning Data Structures and Algorithms , Full Stack Dvelopment.
+- 🌱 I’m currently learning Data Structures and Algorithms , Front-end Dvelopment, Java full stack development.
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 How to reach me amanraj08072001@gmail.com
 <!---
