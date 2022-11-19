@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajaman_0807" target="blank"><img src="https://img.shields.io/twitter/follow/rajaman_0807?logo=twitter&style=for-the-badge" alt="rajaman_0807" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development, UI/UX, JavaFX.**
+- 🌱 I’m currently learning **Web Development, UI/UX, Java and DSA.**
 
 - 👨‍💻 [https://amanraj08.github.io/portfolio/](https://amanraj08.github.io/portfolio/)
 
